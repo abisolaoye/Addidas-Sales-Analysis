@@ -20,7 +20,6 @@
 This project entails an analysis of sales of Addidas products, 
 the region, the most performing products and factors contributing to the sales.
 
-  ![Power bi Project](https://github.com/user-attachments/assets/7f1b3508-05bb-4313-a441-5753e442e309)
 
 ### Data Sources
 Kaggle
