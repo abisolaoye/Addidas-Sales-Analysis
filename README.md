@@ -59,7 +59,6 @@ The master table for the report ```
 The businss should double production during december.
 Investment should be made more towards adverstising and promoting the product.
 
-:sm
 
 
 
